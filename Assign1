@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-B">
+     <meta http-equiv="X-UA-Compatible" content="IEe*dge">
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+     <title>module1 assignment1</title>
+</head>
+<body>
+    <h1>Welcome to View my first Assignment</h1>
+    <header>
+      <h1>CRM Admin</h1>
+      <nav role="navigation">
+          <ul>
+              <li><a href="">Home</a></li>
+              <li><a href="">Contacts</a></li>
+              <li><a href="">Orders</a></li>
+              <li><a href="">Tasks</a></li>
+              <li><a href="">Evaluation copies</a></li>
+          </ul>
+      </nav>
+      <h1>Employee profile</h1>
+    </header>
+    <section>
+        <h2>photo</h2>
+        <img src="C:\Users\hp\movies\IMG_20210417_142123.jpg" width="120" height="150"/>
+        <figcaption>&emsp;Deeksha</figcaption>
+    </section>
+    <section>
+        <h2>personal data</h2>
+        <p>Address<br> &emsp;udyavara</p>
+        <p>city<br> &emsp;udupi</p>
+        <p>Region<br> &emsp;udupi</p>
+        <p>phone<br> &emsp;8197575180</p>
+    </section>
+    <section>
+        <h2>Customer</h2>
+        <p><a href="">John</a>
+            <br>University of paris</p>
+        <p>
+            <a href="">Abraham</a>
+            <br>Oxford University
+        </p>
+
+    </section> 
+    <footer>
+        <p><a href="">Home</a> | <a href="">Customer</a> | <a href="">location</a></p>
+        <p>Copyright&copy;2017 CRM Admin</p> 
+    </footer>
+</body>
+</html>
+
+
